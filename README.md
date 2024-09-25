@@ -10,7 +10,7 @@ This project is a responsive restaurant website built using HTML, CSS, and a bit
 
 **JavaScript**: For adding interactivity.
 
-# Review
+# Preview
 
 ![restaurantKayt2024-09-25171430-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/31ae3665-b1cf-4392-9ada-ac2476f7da83)
 
